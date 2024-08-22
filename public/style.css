@@ -1,0 +1,21 @@
+body{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h1{
+    margin-bottom: 20px;
+}
+.card-main{
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+}
+.card-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
